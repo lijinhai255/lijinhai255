@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <div>
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小孙同学祝您今天愉快!&center=true&size=27" />
+    </a>
+  </div>
 <div align="center"> <img src="https://profile-counter.glitch.me/QInzhengk/count.svg" /> </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=QInzhengk&show_icons=true&theme=transparent" /> </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QInzhengk&layout=compact&theme=tokyonight" /> </div>
@@ -26,3 +32,5 @@ Here are some ideas to get you started:
   <!-- visitor statistics logo 访问量统计徽标 -->
   <img src="https://komarev.com/ghpvc/?username=QInzhengk&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
+</div>
+

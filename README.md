@@ -31,9 +31,9 @@ Here are some ideas to get you started:
   <div>&nbsp;</div>
 
 
-|  CSDN   | github主页  | 前端基础 | 掘金 |
-|  ----  | ---- | --- | --- |
-| [点我直达](https://smileyqp.blog.csdn.net/) | [点我直达](https://smileyqp.github.io/)|[点我直达](https://smileyqp.github.io/frontend_book/)| [点我直达](https://juejin.cn/user/993614243312840)|
+ | github主页  | 前端基础 | 
+ | ---- | --- | --- |
+| [点我直达](https://lijinhai255.github.io/font-end-nodes/)|[点我直达](https://lijinhai255.github.io/font-end-nodes/)| 
 
 ### 🛠 技术栈 | Tech Stack
  💻 &#160; 

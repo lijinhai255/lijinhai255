@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
  | github主页  | 前端基础 | 
- | ---- | --- | --- |
+ | --- | --- |
 | [点我直达](https://lijinhai255.github.io/font-end-nodes/)|[点我直达](https://lijinhai255.github.io/font-end-nodes/)| 
 
 ### 🛠 技术栈 | Tech Stack

@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=QInzhengk&show_icons=true&theme=transparent" /> </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QInzhengk&layout=compact&theme=tokyonight" /> </div>
 <div align="center">
-  <a href="https://github.com/lijinhai255/font-end-nodes"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+  <a href="https://lijinhai255.github.io/font-end-nodes/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
   <a href="https://github.com/lijinhai255/font-end-nodes/wechat_favicon.png"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
 <!--   <a href="https://blog.csdn.net/qq_45832050?type=blog"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
   <a href="https://www.zhihu.com/people/qin-zheng-kai-89"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp; -->
